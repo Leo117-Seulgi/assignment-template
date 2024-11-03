@@ -1,0 +1,6 @@
+It is a pygame. 
+You need to install pygame first through "pip install pygame"
+Then, when you run it, you will need to enter a number 
+After that, you will start the game automatically. You need to use arrow keys to control the snake movement. 
+If you reach the edge of the screen or your snake head touch snake body, gameover.
+You can press esc to quit the game or press space to play it again
